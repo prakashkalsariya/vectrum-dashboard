@@ -16,4 +16,14 @@ code {
   font-family: "report", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
+
+  
+}
+
+li{
+  list-style: none;
+}
+
+li a {
+  text-decoration: none;
 }
